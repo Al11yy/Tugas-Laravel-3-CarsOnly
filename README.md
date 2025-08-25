@@ -32,7 +32,7 @@ Website ini dibuat menggunakan **Laravel** dan **Tailwind CSS** dengan fokus pad
 ```bash
 
 # 1️⃣ Clone repo
-git clone https://github.com/Al11yy/Tugas-Laravel-3-CarsOnly.git
+git clone https://github.com/Al11yy/CarsOnly.git
 cd onlycars
 
 # 2️⃣ Install dependencies
